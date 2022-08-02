@@ -1,4 +1,4 @@
-### Oii meu nome é Luan, sou desenvolvedor front end, atualmente estudando React, Next JS e NODE JS ❤️
+### Oii meu nome é Luan, sou desenvolvedor front end, atualmente estudando React, Next JS e NODE JS
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
