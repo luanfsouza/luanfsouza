@@ -1,25 +1,34 @@
-### Oii meu nome é Luan, sou desenvolvedor front end, atualmente estudando React, Next JS e NODE JS
+<!-- //HEADER// -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&color=414141&background=FFFFFF00&vCenter=true&lines=%F0%9F%91%8B+Hello+World!!;%E2%98%95+My+name+is+Luan+Ferreira+;Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
+### I have at least a little bit of knowledge with: 👇
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
 
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luanfsouza&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanfsouza&layout=compact&langs_count=7&theme=monokai"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Luan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Luan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Luan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Luan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<!-- //BIO// -->
 
-</div>
-
+## I'm a Student Developer ☕
+  My name is Luan Ferreira, I'm 20 years old, I was born and now I live in Bahia. It is
+  I am currently studying Information Systems at the Bahian IF in Itapetinga-BA.
+  I study to become a Full-Stack Developer capable of solving any problem that comes my way and helping other people who need help solving their problems.
   
-  <div> 
-  <a href = "mailto:luanferreira7777@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luan-souza-6b4a25181" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-/*badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/luanfsouza/luanfsouza/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+<br>
+🌱 I’m currently learning a bit of everything 
+<br>
+📚 My goals of 2023 is become an Junior Developer and make more projects
+<br>
+📙 I'm currently focusing on Java
+<br>
+
+## Github stats 📊 
+
+<details> 
